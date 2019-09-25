@@ -1,2 +1,2 @@
-## Copyit Google Extension:-
+## Copyit Google Chrome Extension:-
 A truly easy to use extension for copying anything from any website just by two  double clicks. Since copying anything from a website requires clicking and scrolling which is very timetaking. By this extension ,we have to just double click at the starting point from where we want to start copying and then the end point uptill we want the data to be copied ,the required information will be copied.The main focus of this extension is to save the time.
